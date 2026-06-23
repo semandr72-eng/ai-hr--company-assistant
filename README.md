@@ -53,7 +53,7 @@
 | Embedding | sentence-transformers |
 | Оркестрация | LangChain |
 | Оценка качества | RAGAS |
-| Кэширование | Redis-подобное (in-memory) |
+| Кэширование | SQLite |
 
 ## 🚀 Быстрый старт
 
